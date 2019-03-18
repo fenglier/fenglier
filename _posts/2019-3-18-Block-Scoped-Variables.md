@@ -46,3 +46,6 @@ ReferenceError: i is not defined
     at startup (internal/bootstrap/node.js:283:19)
     at bootstrapNodeJSCore (internal/bootstrap/node.js:743:3)
 ```
+
+# words
+hoist:an act of raising or lifting something
