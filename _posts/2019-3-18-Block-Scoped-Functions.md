@@ -44,3 +44,6 @@ result:
 5
 5
 ```
+
+# reference
+[Block-Scoped Functions](http://es6-features.org/#BlockScopedFunctions)

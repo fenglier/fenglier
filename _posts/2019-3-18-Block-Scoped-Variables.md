@@ -49,3 +49,6 @@ ReferenceError: i is not defined
 
 # words
 hoist:an act of raising or lifting something
+
+# reference
+[Block-Scoped Variables](http://es6-features.org/#BlockScopedVariables)
