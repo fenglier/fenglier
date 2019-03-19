@@ -31,7 +31,7 @@ as above mentioned,you can use "{}" to contain statement bodies.Like this:
 to understand what this point,you can see the article [javaScript的this解惑！](https://blog.csdn.net/wobushixiaobailian/article/details/87613150)
 
 now,back to array function.
->this point current object context
+>this points to current object context
 
 example:
 ```js
@@ -94,6 +94,6 @@ console.log(point.y);  //1
 
 
 # 3. reference
-[Expression Bodies](http://es6-features.org/#ExpressionBodies)</br>
-[Statement Bodies](http://es6-features.org/#StatementBodies)</br>
+[Expression Bodies](http://es6-features.org/#ExpressionBodies)<br>
+[Statement Bodies](http://es6-features.org/#StatementBodies)<br>
 [Lexical this](http://es6-features.org/#Lexicalthis)
