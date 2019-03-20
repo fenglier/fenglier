@@ -87,9 +87,9 @@ console.log(point.y);  //1
 --------
 
 # 2. words
-1. expression bodies:
+1. expression bodies: a mode,means,or use of significant representation or sybolism.
 2. statement bodies:
-3. Lexical:
+3. Lexical:relating to words or vocabulary.
 
 
 
